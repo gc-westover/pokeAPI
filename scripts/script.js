@@ -3,7 +3,7 @@ function ucfirst(string) {
 }
 
 var url = "https://pokeapi.co/api/v2/pokemon/";
-var targetNumber = 100;
+var targetNumber = 20;
 var j = 0;
 
 $(function() {
